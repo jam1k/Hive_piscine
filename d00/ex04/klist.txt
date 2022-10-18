@@ -1,0 +1,6 @@
+Credentials cache: API:5183
+        Principal: jshestov@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 28 21:46:53 2022  Jun 29 07:46:53 2022  krbtgt/HIVE.FI@HIVE.FI
+Jun 28 21:46:55 2022  Jun 29 07:46:53 2022  HTTP/student-storage.hive.fi@HIVE.FI
